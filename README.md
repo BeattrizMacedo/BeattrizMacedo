@@ -6,16 +6,20 @@ Estudante de Sistemas para Internet na UNICAP, com foco em desenvolvimento back-
 
 ## Tecnologias e ferramentas
 
-![Java](https://img.shields.io/badge/Java-45454D?style=flat&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-45454D?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-45454D?style=flat&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-45454D?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-45454D?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-45454D?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-45454D?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B83F76?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B83F76?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B83F76?style=for-the-badge&logo=css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B83F76?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B83F76?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B83F76?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B83F76?style=for-the-badge&logo=git&logoColor=white)
+
 ## Em estudo
 
-JavaScript · Inteligência artificial · Machine learning · Python aplicado à IA
+![JavaScript](https://img.shields.io/badge/JavaScript-F2CEDF?style=for-the-badge&logo=javascript&logoColor=79304F)
+![Python para IA](https://img.shields.io/badge/Python%20para%20IA-F2CEDF?style=for-the-badge&logo=python&logoColor=79304F)
+
+Inteligência artificial · Machine learning
 
 ## Projetos em destaque
 
