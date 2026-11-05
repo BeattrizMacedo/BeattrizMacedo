@@ -23,5 +23,4 @@ JavaScript · Inteligência artificial · Machine learning · Python aplicado à
 
 ## Contato
 
-<!-- Substitua os três marcadores abaixo pelos seus dados. -->
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [Portfólio](https://SEU-PORTFOLIO.example) · [E-mail](mailto:SEU-EMAIL@example.com)
+[LinkedIn](linkedin.com/in/beatrizmacêdo) · [Portfólio](https://SEU-PORTFOLIO.example) · [E-mail](mailto:beatrizmacedopessoal@gmail.com)
