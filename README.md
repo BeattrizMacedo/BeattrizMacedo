@@ -4,22 +4,17 @@ Estudante de Sistemas para Internet na UNICAP, com foco em desenvolvimento back-
 
 ## Tecnologias e ferramentas
 
-![Java](https://img.shields.io/badge/Java-C74634?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-475569?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original-wordmark.svg" alt="Java" height="36">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/SQL-475569?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/PostgreSQL-4169A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
 ## Em estudo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
-![Python para IA](https://img.shields.io/badge/Python%20para%20IA-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-
-Inteligência artificial · Machine learning
-
-Inteligência artificial · Machine learning
+<kbd>JavaScript</kbd> <kbd>Python para IA</kbd> <kbd>Inteligência artificial</kbd> <kbd>Machine learning</kbd>
 
 ## Projetos em destaque
 
@@ -28,4 +23,6 @@ Inteligência artificial · Machine learning
 
 ## Contato
 
-[LinkedIn](linkedin.com/in/beatrizmacêdo) · [Portfólio](https://SEU-PORTFOLIO.example) · [E-mail](mailto:beatrizmacedopessoal@gmail.com)
+- LinkedIn · <https://www.linkedin.com/in/beatrizmacêdo>
+- Portfólio · <https://SEU-PORTFOLIO.example>
+- E-mail · <beatrizmacedopessoal@gmail.com>
