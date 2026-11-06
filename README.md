@@ -23,5 +23,5 @@ Estudante de Sistemas para Internet na UNICAP, com foco em desenvolvimento back-
 ## Contato
 
 - LinkedIn · <https://www.linkedin.com/in/beatrizmacêdo>
-- Portfólio · <https://SEU-PORTFOLIO.example>
+<!-- - Portfólio · <https://SEU-PORTFOLIO.example>-/ -->
 - E-mail · <beatrizmacedopessoal@gmail.com>
