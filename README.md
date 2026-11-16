@@ -18,7 +18,13 @@ Estudante de Sistemas para Internet na UNICAP, com foco em desenvolvimento back-
 ## Projetos em destaque
 
 - Open Finance Hub
-- Desempenho Estudantil
+**[Dashboard de Desempenho Estudantil](https://github.com/MariaBeatriz565/Desempenho-Estudantil)**
+
+Dashboard interativo para análise de dados educacionais,
+desenvolvido com JavaScript, Chart.js e integração com APIs REST.
+
+[Visualizar aplicação](https://desempenho-estudantil.onrender.com)
+
 
 ## Contato
 
